@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 109001cf2c308cc4693de77fa50d2a90
   AndroidProfiler: 1
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -633,7 +633,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 9a01962c-521c-4f8b-acf9-fe922ae5a9fe
-  projectName: 
+  projectName: Testagain
   organizationId: yonemura_asa
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

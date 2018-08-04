@@ -12,3 +12,7 @@
 
 ・Buid Settings で、Add Open Scene、Switch Platform -> WebGL
 　Build And Run
+
+1.OculusGoとPCを非接続でBuild
+
+VR化出来た
