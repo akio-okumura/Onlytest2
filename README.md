@@ -13,6 +13,10 @@
 ・Buid Settings で、Add Open Scene、Switch Platform -> WebGL
 　Build And Run
 
-1.OculusGoとPCを非接続でBuild
+この段階で分かることは、スクリプトは一切イジらずともVR化可能
 
-VR化出来た
+# 原因解析
+
+Build時にGoをPCと接続しているかどうかは関係ない
+
+スクリプトも、インスペクタも一切いじらずにVR化出来る
